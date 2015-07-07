@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Softland.WinFormUI", "Softland.WinFormUI\Softland.WinFormUI.vbproj", "{F3179531-5C9F-4130-B7AE-D083C062A3D7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Softalnd.Business", "Softalnd.Business\Softalnd.Business.vbproj", "{3A118432-CC02-45D1-A404-F096B734767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3179531-5C9F-4130-B7AE-D083C062A3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3179531-5C9F-4130-B7AE-D083C062A3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3179531-5C9F-4130-B7AE-D083C062A3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3179531-5C9F-4130-B7AE-D083C062A3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A118432-CC02-45D1-A404-F096B734767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A118432-CC02-45D1-A404-F096B734767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A118432-CC02-45D1-A404-F096B734767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A118432-CC02-45D1-A404-F096B734767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
