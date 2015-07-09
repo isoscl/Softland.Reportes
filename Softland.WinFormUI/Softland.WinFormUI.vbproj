@@ -87,6 +87,12 @@
     <Compile Include="Modulos\Parametros\FrmCuentasContables.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Modulos\Reportes\FrmBalanceClasificado.Designer.vb">
+      <DependentUpon>FrmBalanceClasificado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Reportes\FrmBalanceClasificado.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -115,6 +121,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Modulos\Parametros\FrmCuentasContables.resx">
       <DependentUpon>FrmCuentasContables.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos\Reportes\FrmBalanceClasificado.resx">
+      <DependentUpon>FrmBalanceClasificado.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
